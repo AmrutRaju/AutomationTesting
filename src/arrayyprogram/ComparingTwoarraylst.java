@@ -38,7 +38,7 @@ public class ComparingTwoarraylst {
 		
 		//find out common elements
 		
-		ArrayList<String> ar=new ArrayList<String>(Arrays.asList("Kabir","Babu","usha","Cutu","Alok"));
+		ArrayList<String> ar=new ArrayList<String>(Arrays.asList("Kabir","Babu","usha","kuku","Alok"));
 		ArrayList<String>aar=new ArrayList<String>(Arrays.asList("Kabir","Babu","usha","Cutu","Alo"));
 		Collections.sort(ar);
 		Collections.sort(ar);
